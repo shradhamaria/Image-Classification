@@ -35,7 +35,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-https://github.com/SmartHacks25/Image-Classification.git
+git clone https://github.com/shradhamaria/Image-Classification.git
 ```
 
 ## Usage
