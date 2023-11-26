@@ -54,5 +54,4 @@ python predict.py --image_path /path/to/image.jpg --model_path /path/to/checkpoi
 For more options and parameters, refer to the documentation in each script.
 
 ## Acknowledgments
-This project is part of the Udacity Data Scientist Nanodegree program.
-The flower dataset is provided by Udacity.
+This project is part of the Udacity Nanodegree program.
